@@ -1,0 +1,6 @@
+{
+  "name": "Gestão Inteligente de Resíduos em Nova Esperança",
+  "description": "Protótipo demonstrativo para acompanhamento de contêineres, detecção de anomalias, qualidade de telemetria LPWAN e planejamento assistido de coleta em Nova Esperança.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
